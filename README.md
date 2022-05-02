@@ -1,2 +1,5 @@
 # Shopping-mall-safety-and-maintanance
 This project is a simulation, based on shopping mall safety and maintenance implementation. This project is developed in relevance to the necessities and safety precautions required in a shopping mall. We have implemented these using some sensors. The temperature sensor , Gas sensor, the PIR motion sensor used here for opening the doors automatically and are significant in ensuring that the safety measures and protocols are followed as much as possible. The project makes use of a total of 3 sensors.
+1) Gas sensor : This sensor detects smoke and gas leakage in the atmosphere and alarms the shoppers through a buzzer to leave the premise through the fire exit. 
+2) PIR motion sensor : Based on the motion detection, it will automatically open the doors, which avoids the shoppers from laying their hands on the handles .
+3) Photosensor : This sensor is used in the street lights outside the mall premise which automatically lights up based on the dimness of natural sunlight 
